@@ -1,9 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 bla
 bla
 bla
 blu
 blu
 blu
+=======
+>>>>>>> parent of 251f811... updated file.txt
 =======
 >>>>>>> parent of 251f811... updated file.txt
